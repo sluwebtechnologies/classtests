@@ -1,0 +1,2 @@
+# classtests
+class tests 
